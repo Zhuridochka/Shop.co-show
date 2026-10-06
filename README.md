@@ -5,9 +5,9 @@ A front-end demo of an online clothing store, created as a portfolio project. Th
 🔗 **Demo:** https://zhuridochka.github.io/Shop.co-show/category.html
 
 ## Screenshots
-| ![](./previews/Screenshot_02.jpg)
-| ![](./previews/Screenshot_01.jpg)
-| ![](./previews/Screenshot_03.jpg)
+ ![](./previews/Screenshot_02.jpg)
+ ![](./previews/Screenshot_01.jpg)
+ ![](./previews/Screenshot_03.jpg)
 
 ## Features
 - Home page with featured collections and offers
